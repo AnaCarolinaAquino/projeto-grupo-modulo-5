@@ -83,7 +83,7 @@ $ npm start
 Abaixo consta exemplos de testes realizados na aplicação desenvolvida.<br><br>
 
 <b>Cadastro do ussuário:</b><br>
-https://user-images.githubusercontent.com/113844035/220787645-74ed964a-ebff-4b08-b4c9-ff2f61eca56d.mp4
+![Cadastrar-TrueNews]
 <br><br>
 <b>Página Inicial com a notícia cadastrada pelo usuário:</b><br>
 https://user-images.githubusercontent.com/113844035/220788393-61ba45dc-7a89-4165-a087-3182419aa1fc.mp4
