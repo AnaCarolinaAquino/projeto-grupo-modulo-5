@@ -1,0 +1,15 @@
+{
+    "name": "projeto-grupo-modulo-5",
+    "version": "2",
+    "public": true,
+    "build":[{
+        "src": "./index.js",
+        "use": "@vercel/node-server"
+    }],
+    "routes": [{"routes": [{"handle": "filesystem"},
+        {
+        "src": "/.*",
+        "dest": "index.js"
+        }
+    ]
+}
