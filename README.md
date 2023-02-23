@@ -33,6 +33,7 @@ Grupo: 	   <ol>
 * [Informações Gerais](#informações-Gerais)
 * [Tecnologias](#tecnologias)
 * [Configurações](#configurações)
+* [Testes da Aplicação](#testes-da-aplicação)
 
 <br><br>
 
