@@ -17,11 +17,8 @@ const Noticia = database.define('Noticia', {
   noticia: {
     type: DataTypes.STRING,
     allowNull: false,
-  },
-  data:{
-    type: DataTypes.DATEONLY,
-    allowNull: false,
-  } 
+  }
+
 });
 
 

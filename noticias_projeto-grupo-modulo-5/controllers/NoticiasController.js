@@ -43,7 +43,6 @@ module.exports = class NoticiasController {
       titulo: req.body.titulo,
       subtitulo: req.body.subtitulo,
       noticia: req.body.noticia,
-      data: req.body.data,
       UsuarioId: req.session.userid,
     }
 
@@ -134,7 +133,7 @@ module.exports = class NoticiasController {
       titulo: req.body.titulo,
       subtitulo: req.body.subtitulo,
       noticia: req.body.noticia,
-      data: req.body.data,
+      
     }
 
     Noticia.update(noticia, { where: { id: id } })

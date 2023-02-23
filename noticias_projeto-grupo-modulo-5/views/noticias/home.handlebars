@@ -72,7 +72,7 @@
                     </a>
                     <p class="post-meta">
                         Postado por <strong><span class="text-dark">{{this.Usuario.nome}}</span></strong>
-                        em <span>{{this.data}}</span>
+                        em <span>{{#formatDate}}{{this.createdAt}}{{/formatDate}}</span>
                     </p>
                 </div>
                 <article>

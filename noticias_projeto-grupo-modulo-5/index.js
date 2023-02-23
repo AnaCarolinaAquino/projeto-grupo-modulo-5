@@ -3,6 +3,7 @@ const exphbs = require('express-handlebars'); // Importação do módulo express
 const session = require('express-session'); // Importação do módulo express-session para criar uma sessão middleware.
 const FileStore = require('session-file-store')(session); // 
 const flash = require('express-flash'); // Importação do módulo express-flash que expõe os métodos getter e setter para uma mensagem flash do formulário.
+const moment = require('moment'); // Importação do módulo moment que altera formatação dos dados de data.
 
 //Criação de uma instância do express.
 const app = express(); 
@@ -31,6 +32,16 @@ app.use(flash());// configurar as mensagens de status do sistema flash messages.
 app.use(express.static('public')); // dizendo que a pasta public contém os assets.
 app.use(express.urlencoded({extended: true,})); // receber resposta do body.
 app.use(express.json());
+
+
+app.engine('handlebars', exphbs({
+  defaultLayout: 'main', 
+  helpers: {
+      formatDate: (date) => {
+          return moment(date).format('DD/MM/YYYY')
+      }
+  }
+}))
 
 //Diz onde o as sessões vão ser salvas.
 app.use(
