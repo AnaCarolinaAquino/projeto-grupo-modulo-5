@@ -4,14 +4,14 @@
 <br><br>
 
 
-Grupo: <ol>
+Grupo: 	   <ol>
             <li>Ana Carolina Aquino</li>
             <li>Luceldo Minô</li>
-       </ol>
+      	  </ol>
 
 
 <br><br>
-<b>CONTEXTO:</b><i>Você e sua equipe foram escalados para desenvolverem propostas de APIs que serão o produto mínimo viável de um aplicativo. Vocês devem escolher o tema do aplicativo para identificar as entidades.
+<b>CONTEXTO:</b><i> Você e sua equipe foram escalados para desenvolverem propostas de APIs que serão o produto mínimo viável de um aplicativo. Vocês devem escolher o tema do aplicativo para identificar as entidades.
 </i><br><br><br>
 
 
@@ -82,7 +82,7 @@ $ npm start
 
 Abaixo consta exemplos de testes realizados na aplicação desenvolvida.<br><br>
 
-<b>Cadastro do ussuário:</b><br>
+<b>Cadastro do usuário:</b><br>
 [https://user-images.githubusercontent.com/113844035/220789747-c0b0dc03-fe59-4dd9-a3d2-ed56d8e545ae.mp4](https://github.com/AnaCarolinaAquino/projeto-grupo-modulo-5/issues/1#issue-1596007364)
 <br><br>
 <b>Página Inicial com a notícia cadastrada pelo usuário:</b><br>
