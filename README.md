@@ -90,6 +90,6 @@ Abaixo consta exemplos de testes realizados na aplicação desenvolvida.<br><br>
 <br><br>
 
 <b>Mecanismo de busca de notícias:</b><br>
-[https://github.com/AnaCarolinaAquino/projeto-grupo-modulo-5/issues/3#issue-1596023151](https://github.com/AnaCarolinaAquino/projeto-grupo-modulo-5/issues/3#issue-1596023151)
+https://user-images.githubusercontent.com/113844035/220792289-c4ac663a-e3cd-49df-8a50-f8433b4792a5.mp4
 <br><br>
 
