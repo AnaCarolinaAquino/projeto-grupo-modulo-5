@@ -83,13 +83,13 @@ $ npm start
 Abaixo consta exemplos de testes realizados na aplicação desenvolvida.<br><br>
 
 <b>Cadastro do ussuário:</b><br>
-![Cadastrar-TrueNews]
+[https://user-images.githubusercontent.com/113844035/220789747-c0b0dc03-fe59-4dd9-a3d2-ed56d8e545ae.mp4](https://github.com/AnaCarolinaAquino/projeto-grupo-modulo-5/issues/1#issue-1596007364)
 <br><br>
 <b>Página Inicial com a notícia cadastrada pelo usuário:</b><br>
-https://user-images.githubusercontent.com/113844035/220788393-61ba45dc-7a89-4165-a087-3182419aa1fc.mp4
+[https://user-images.githubusercontent.com/113844035/220788393-61ba45dc-7a89-4165-a087-3182419aa1fc.mp4](https://github.com/AnaCarolinaAquino/projeto-grupo-modulo-5/issues/2#issue-1596019207)
 <br><br>
 
 <b>Mecanismo de busca de notícias:</b><br>
-https://user-images.githubusercontent.com/113844035/220789041-69567a2e-4157-404f-b609-40ff7bd09718.mp4
+[https://github.com/AnaCarolinaAquino/projeto-grupo-modulo-5/issues/3#issue-1596023151](https://github.com/AnaCarolinaAquino/projeto-grupo-modulo-5/issues/3#issue-1596023151)
 <br><br>
 
