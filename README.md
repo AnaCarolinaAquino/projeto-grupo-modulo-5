@@ -27,8 +27,6 @@ Grupo: 	   <ol>
 <br><br>
 
 
-<br>
-
 ## Índice
 * [Informações Gerais](#informações-Gerais)
 * [Tecnologias](#tecnologias)
